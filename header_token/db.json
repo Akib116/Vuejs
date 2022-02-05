@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "headers": {
+        "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6IjExODIzMDM5NzU5ODc4NzU1MjU4MyIsImV4cCI6MTcyNzI2Mjk5Mn0.JBEsXwUfJUyihsdD8yFUbWWxAKiNOIEulbZ4n4YlIcM"
+      },
+      "name": "",
+      "phone": "",
+      "address": "",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,25 @@
+
+1. vue init webpack projectname
+
+2.npm run dev
+3. vue create project name
+4. npm run serve
+5. npm install axios
+6. npm run serve -- --port 4200
+
+bootstrap
+-------------
+1. npm install bootstrap
+2. npm install  --save@popperjs/core
+main.js
+------
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+font Awesome
+-----------------------
+1. npm install @fortawesome/fontawesome-free
+main.js
+----------------------
+ import '@fortawesome/fontawesome-free/css/all.css';
+ import '@fortawesome/fontawesome-free/js/all.js';

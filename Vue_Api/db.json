@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "email": "hdgcd@post.com",
+      "password": "sfesdgfrg",
+      "id": 3
+    },
+    {
+      "email": "hdgbddd@post.com",
+      "password": "gvgvxygfu",
+      "id": 5
+    },
+    {
+      "email": "safsdfa@post.com",
+      "password": "zdasfasf",
+      "id": 6
+    },
+    {
+      "email": "akib@post.com",
+      "password": "cdsfdsgf",
+      "id": 7
+    },
+    {
+      "email": "Azadpost@post.com",
+      "password": "vfdgfd",
+      "id": 8
+    },
+    {
+      "email": "sakib@gmail.com",
+      "password": "hbchdsghgsdg",
+      "id": 9
+    },
+    {
+      "email": "sakib@gmail.com",
+      "password": "hbchdsghgsdg",
+      "id": 10
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "email": "akibevil@yahoo.com",
+      "password": "adasfasd",
+      "id": 13
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "email": "akibevil@yahoo.com",
+      "password": "dvdsfgfdgh",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

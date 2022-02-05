@@ -1,0 +1,23 @@
+.red{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+}
+
+.green{
+    width: 100px;
+    height: 50px;
+    background-color: green;
+}
+
+.yellow{
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+}
+
+.active{
+    background-color: rgb(3, 78, 97);
+    color: #fff;
+    border: 1px solid gray;
+}
